@@ -22,8 +22,8 @@ Connected Wise is a transportation research and development company founded by s
 
 
 ## Contact
-Please click on the CARMA logo below to visit the Federal Highway Adminstration(FHWA) CARMA website. For more information, contact CARMA@dot.gov.
+Please click on the Connected Wise logo below to visit the project website. For more information, contact info@connected-wise.com
 [![CW_Logo](https://www.connected-wise.com/images/Logo_Black_Horizontal_800px.png)](https://www.connected-wise.com/contact/contact.php)
 
 ## Support
-For technical support from the Connected Wise team, please contact the Connected Wise help desk at infor@connected-wise.com.
+For technical support from the Connected Wise team, please contact the Connected Wise help desk at tech@connected-wise.com.
