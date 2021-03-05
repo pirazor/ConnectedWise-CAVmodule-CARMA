@@ -1,7 +1,7 @@
 
 # Connected Wise - AutoConnect
 
-Connected Wise<sup>SM</sup> focuses on research and development to support the deployment of connected automated vehicles, while advancing automated driving technology safety, security, data, and artificial intelligence. 
+Connected Wise focuses on research and development to support the deployment of connected automated vehicles, while advancing automated driving technology safety, security, data, and artificial intelligence. 
 
 AutoConnect is a platform environment built ontop of USDOT's extensible platform CARMA for controlling SAE level 2 connected automated vehicles (CAVs). It provides a demonstration and testing interface along with the backend infrastructure. 
 
